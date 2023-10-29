@@ -3,8 +3,8 @@ type: docker
 name: hello-world
 
 platform:
-  os: darwin
-  arch: arm
+  os: linux
+  arch: arm64
 
 steps:
 - name: docker  
